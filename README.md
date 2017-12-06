@@ -1,6 +1,7 @@
 # mu-first-post
 
 An example addon that shows a new Module Unification Addon (mu-first-post) working in a Classic app (the dummy app)
+
 ![the future](https://cl.ly/2c111k2P100M/Screen%20Shot%202017-12-06%20at%2016.34.18.png)
 
 ## Installation
