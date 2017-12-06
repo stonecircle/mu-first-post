@@ -1,7 +1,7 @@
 {
   "name": "mu-first-post",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An example addon that shows a new Module Unification Addon (mu-first-post) working in a Classic app (the dummy app)",
   "keywords": [
     "ember-addon"
   ],
