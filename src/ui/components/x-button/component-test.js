@@ -1,7 +1,7 @@
 import { moduleForComponent, test } from 'ember-qunit';
 import hbs from 'htmlbars-inline-precompile';
 
-moduleForComponent('x-button', 'Integration | Component | x button', {
+moduleForComponent('x-button', 'Integration | Component | x button 2', {
   integration: true
 });
 
